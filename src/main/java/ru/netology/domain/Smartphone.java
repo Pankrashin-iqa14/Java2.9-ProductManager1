@@ -9,6 +9,7 @@ import lombok.EqualsAndHashCode;
 public class Smartphone extends Product {
     private String  manufacturer;
 
+
     public Smartphone(){
 
     }
